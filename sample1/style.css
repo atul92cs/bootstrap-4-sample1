@@ -1,0 +1,46 @@
+html,
+body
+{
+  height:100%;
+}
+img
+{
+	max-width:100%;
+}
+#cover
+{
+  background: #222 url('img/ScreenImg.jpg') center center no-repeat;
+  background-size:cover;
+  color:white;
+  height:100%;
+  text-align:center;
+  color:#222;
+  display:flex;
+  align-items:center;
+}
+#cover-caption
+{
+	width:100%;
+}
+#youcanalsodoit
+{
+	background: #222 url('img/youcandoit.jpg') center center no-repeat;
+	background-size:cover;
+	display:flex;
+	height:100%;
+	
+}
+.inspire
+{
+	background:rgba(0,0,0,0.8);
+	color:white;
+	padding:1.875rem;
+}
+#footer-main
+{
+	background: #222;
+	color:white;
+	font-size: 5rem;
+	text-align:center;
+
+}
